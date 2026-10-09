@@ -1,4 +1,4 @@
-### Slimane Chanchoul: AI and automation engineer
+### S'limane Chanchoul: AI and automation engineer
 
 I automate the work that eats a team's week and repair AI systems that give answers nobody trusts: Excel VBA and Google Sheets automation, Python data pipelines, Claude MCP servers and agent skills, RAG and LLM fixes, machine-learning models. Every result below comes from a run you can replay.
 
